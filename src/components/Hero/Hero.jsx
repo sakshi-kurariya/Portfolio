@@ -1,6 +1,6 @@
 import React from "react";
 import { IoCall } from "react-icons/io5";
-import { FaWhatsapp } from "react-icons/fa";
+
 import { FaLinkedin } from "react-icons/fa";
 import { IoMdMail } from "react-icons/io";
 import { FaGithub } from "react-icons/fa";
