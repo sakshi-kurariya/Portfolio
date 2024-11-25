@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Ecommerce Website Clone",
+    "imageSrc": "projects/image1.png",
+    "description": "Developed a fully functional e-commerce website clone using ReactJS, Redux, and Firebase to simulate a real-world online store.",
+    "skills": ["ReactJs", "Redux","Firebase","HTML","CSS","JavaScript"],
+    "demo": "https://dream-home-a36e2.web.app/",
+    "source": "https://github.com/sakshi-kurariya/E-Commerce-Website-Clone"
+  },
+  {
+    "title": "Weather Forcasting App",
+    "imageSrc": "projects/weatherApp.png",
+    "description": "Created a weather forecasting application using ReactJS and OpenWeatherMap API to provide real-time weather data.",
+    "skills": ["ReactJS", "HTML","CSS","JavaScript","OpenWeatherMapAPI"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/sakshi-kurariya/Dynamic-Weather-App"
+  }]

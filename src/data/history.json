@@ -1,0 +1,11 @@
+[
+  {
+   
+    "organisation": "Tata Consultancy Services ",
+    "role": "System Engineer",
+    "startDate": "July, 2021",
+    "endDate": "Present",
+    "experiences": ["Built dynamic user interfaces with React, ensuring fast load times, seamless navigation, and interactive features.", "Optimized website performance by implementing code-splitting, lazy loading, reducing page load times and improving Core Web Vitals."],
+    "imageSrc": "history/TCS.jpg"
+  }
+]

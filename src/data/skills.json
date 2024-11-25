@@ -1,0 +1,27 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.webp"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascriptlogo.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  }
+ , {
+  "title": "Redux",
+  "imageSrc": "skills/redux1.svg"
+}
+ 
+]
