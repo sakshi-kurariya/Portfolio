@@ -23,9 +23,7 @@ export const Hero = () => {
         <a href="tel:+919340290199"  target="_blank">
           < IoCall/>
         </a>
-        <a href="https://api.whatsapp.com/send?phone=9340290199"  target="_blank">
-          <FaWhatsapp/>
-        </a>
+        
         <a href=" https://linkedin.com/in/sakshi-kurariya-52ba421ab"  target="_blank">
           <FaLinkedin/>
         </a>
